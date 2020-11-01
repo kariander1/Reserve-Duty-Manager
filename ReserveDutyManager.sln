@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkDemo", "DarkDemo\DarkDemo.csproj", "{1758915D-71C9-473A-8292-A20D401BD14F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReserveDutyManager", "DarkDemo\ReserveDutyManager.csproj", "{1758915D-71C9-473A-8292-A20D401BD14F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRG.Controls.UI", "..\..\MRGLoadingCirclesrc\LoadingCircle\MRG.Controls.UI\MRG.Controls.UI.csproj", "{48E18B56-4C37-4D69-ABA7-429C42B45AAC}"
 EndProject
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15F55F76-7988-4FB9-ACE9-A5FAAFA29C3A}
 	EndGlobalSection
 EndGlobal

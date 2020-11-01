@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DarkDemo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.././ReserveDutyManager.accdb</Value>
+    </Setting>
+    <Setting Name="AssignationsFormTemplatePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Shai\Downloads\DarkDemo\DarkDemo\DarkDemo\Template.xlsx</Value>
+    </Setting>
+    <Setting Name="OutputFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Shai\Downloads\DarkDemo\DarkDemo\DarkDemo\Export</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
